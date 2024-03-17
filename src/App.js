@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={octocat} alt="octocat" />
+        <img src={octocat} alt="octocat" height="500px" />
         <p>
           <h1>Hi! There Its Me Testing OTC</h1>
         </p>
