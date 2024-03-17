@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import octocat from './octocat.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={octocat} alt="octocat" />
         <p>
-          Hi! There
+          <h1>Hi! There Its Me Testing OTC</h1>
         </p>
 
       </header>
