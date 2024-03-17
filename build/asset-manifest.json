@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/itz-predator.github.io/react/static/css/main.67a2c428.css",
-    "main.js": "/itz-predator.github.io/react/static/js/main.8ca1b515.js",
-    "static/js/453.ed3810f9.chunk.js": "/itz-predator.github.io/react/static/js/453.ed3810f9.chunk.js",
-    "static/media/octocat.png": "/itz-predator.github.io/react/static/media/octocat.c7f7ea96fd63d2cf9c87.png",
-    "index.html": "/itz-predator.github.io/react/index.html",
-    "main.67a2c428.css.map": "/itz-predator.github.io/react/static/css/main.67a2c428.css.map",
-    "main.8ca1b515.js.map": "/itz-predator.github.io/react/static/js/main.8ca1b515.js.map",
-    "453.ed3810f9.chunk.js.map": "/itz-predator.github.io/react/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "./static/css/main.67a2c428.css",
+    "main.js": "./static/js/main.5b430752.js",
+    "static/js/453.ed3810f9.chunk.js": "./static/js/453.ed3810f9.chunk.js",
+    "static/media/octocat.png": "./static/media/octocat.c7f7ea96fd63d2cf9c87.png",
+    "index.html": "./index.html",
+    "main.67a2c428.css.map": "./static/css/main.67a2c428.css.map",
+    "main.5b430752.js.map": "./static/js/main.5b430752.js.map",
+    "453.ed3810f9.chunk.js.map": "./static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67a2c428.css",
-    "static/js/main.8ca1b515.js"
+    "static/js/main.5b430752.js"
   ]
 }
